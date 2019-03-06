@@ -1,3 +1,3 @@
 # EnVision
 
-EnVision include TcVisio and Satima for ConAntares.
+EnVision includes TcVisio and Satima for ConAntares.
